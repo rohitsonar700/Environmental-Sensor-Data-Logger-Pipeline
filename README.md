@@ -7,6 +7,7 @@ An STM32-based embedded data-logging pipeline that reads real-time ambient tempe
 ## 📸 Hardware Setup & Connections
 <img width="625" height="351" alt="Picture" src="https://github.com/user-attachments/assets/b8e4da09-8b88-4d47-af11-b20c8c2c0b41" />
 <img width="564" height="317" alt="Picture2" src="https://github.com/user-attachments/assets/1de4de4d-afc4-473c-9bdd-7155607608c2" />
+
 *Figure : STM32 Nucleo board connected to HTU21DF environmental sensor.*
 
 ---
